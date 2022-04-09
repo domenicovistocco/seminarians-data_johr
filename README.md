@@ -1,3 +1,7 @@
-Dataset used for the paper: "Attachment relationships, identity and well-being in seminarians" (De Gregorio Alfonso, Della Giulia Antonio, Vistocco Domenico), 2022
+Datasets used for the paper: 
 
+"Attachment relationships, identity and well-being in seminarians" (De Gregorio Alfonso, Della Giulia Antonio, Vistocco Domenico), 2022
 submited to: _Journal of Heath and Psychology_, Springer
+
+- model_data.xlsx: Data contains 159 rows (seminarians) and 118 columns (indicators)
+- personal_info.xlsx: dataset with demographic information (to fill, ...)
