@@ -18,4 +18,4 @@ The repository contains three files in MS-Excel format:
         https://web.stanford.edu/~hastie/Papers/mazumder10a.pdf
         Journal of Machine Learning Research 11 (2010) 2287-2322
     
-- personal_info.xlsx: dataset with demographic information (to fill, ...). Data contains 159 rows (seminarians) and ? columns (...)
+- **personal_info.xlsx**: dataset with demographic information (to fill, ...). Data contains 159 rows (seminarians) and ? columns (...)
