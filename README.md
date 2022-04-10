@@ -9,7 +9,7 @@ Datasets used for the paper:
 
 The repository contains three files in MS-Excel format:
 
-- **model_data.xlsx**: a table with 159 rows (seminarians) and 118 columns (indicators)
+- **model_data.xlsx**: a table with 159 rows (seminarians) and 118 columns (indicators). Consult the paper for details on the indicators
 
 - **model_data_no_missing.xlsx**: the same table above described where missing value were imputed fitting a low-rank matrix approximation to a matrix with missing values via nuclear-norm regularization. For details, see:
 
